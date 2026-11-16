@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "API endpoint listesini hazırla",
+    "description": "Görev modülü için tüm REST uçlarını dokümana yaz.",
+    "status": "completed",
+    "priority": "high",
+    "assignee": "musa",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-10",
+    "createdAt": "2026-11-09T09:00:00.000Z",
+    "updatedAt": "2026-11-10T16:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Logger middleware yaz",
+    "description": "Tüm istekleri method, endpoint ve zaman damgasıyla kaydet.",
+    "status": "in-progress",
+    "priority": "medium",
+    "assignee": "ayse",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-12",
+    "createdAt": "2026-11-10T10:15:00.000Z",
+    "updatedAt": "2026-11-11T11:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Postman koleksiyonunu oluştur",
+    "description": "CRUD uçları için test isteklerini hazırla.",
+    "status": "todo",
+    "priority": "low",
+    "assignee": "musa",
+    "project": "TaskFlow",
+    "dueDate": "2026-11-14",
+    "createdAt": "2026-11-11T08:45:00.000Z",
+    "updatedAt": "2026-11-11T08:45:00.000Z"
+  }
+]
